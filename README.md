@@ -1,7 +1,7 @@
 TopCoder596Div2
 ===============
 
-TopCoder SRM 595 Div2
+TopCoder SRM 596 Div2
 
 第3题解题报告
 
